@@ -1,0 +1,13 @@
+DATA SOURCE
+Data frm excel source
+
+CLEAN DATA
+Edit columns name.
+Add new column Income from Revenue & Cost
+Filter stores have revenue=0
+Convert lattitude into negative number (Australia lattitude in South)
+
+MERGE QUERY (MODEL)
+
+VISUALISATION
+Add % revenue
